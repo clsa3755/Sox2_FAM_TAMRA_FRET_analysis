@@ -40,4 +40,6 @@ intensity values. (These wavelengths are different and there are less of them)
 -The last file will be the emission intensities from the excitation of the FAM
 donor only with all corresponding donor emission wavelengths.
 
+To execute in practice, follow comment directives. All that will need to be changed is the .csv files names if they are different from what the files are named in the example and the calculated constants and peak wavelengths.
+
 Example .csv files that were used to write the example code are included in repository.
